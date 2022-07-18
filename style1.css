@@ -3,10 +3,10 @@
 .header{
     position:absolute; font-size: 80px; top: 30%; width:100%; text-align:center; color: white; }
     .para{
-      position: absolute;  top: 80%; text-align: center; font-size: 16px; margin: 40px 150px 80px; padding: 0px 150px 5px;                                                       ;
+      position: absolute;  top: 90%; text-align: center; font-size: 16px; margin: 40px 150px 80px; padding: 0px 150px 5px;                                                       ;
    font-weight: 600;color:white ; }
   .anchor{
-    position: absolute; top: 120%;
+    position: absolute; top: 130%;
     text-decoration: none;
     text-align: center;
     background-color: brown;
